@@ -1,4 +1,4 @@
-# delfin : SODA Infrastructure Manager Project
+# delfin : SODA Infrastructure Manager Project(delfin)
 [![Build Status](https://travis-ci.com/sodafoundation/delfin.svg?branch=master)](https://travis-ci.com/sodafoundation/delfin)
 [![codecov.io](https://codecov.io/github/sodafoundation/delfin/coverage.svg?branch=master)](https://codecov.io/github/sodafoundation/delfin?branch=master)
 [![Releases](https://img.shields.io/github/release/sodafoundation/delfin/all.svg?style=flat-square)](https://github.com/sodafoundation/delfin/releases)
